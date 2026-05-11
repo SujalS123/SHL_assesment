@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Java developer knowledge test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-test",
+    "description": "Assesses knowledge of Java programming. Ideal for evaluating software engineers.",
+    "test_type": "K",
+    "competencies": ["Java", "Object-Oriented Programming", "Software Engineering"]
+  },
+  {
+    "name": "Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/numerical-reasoning",
+    "description": "Measures the ability to make correct decisions or inferences from numerical or statistical data.",
+    "test_type": "A",
+    "competencies": ["Data Analysis", "Numerical Reasoning", "Problem Solving"]
+  },
+  {
+    "name": "Situational Judgment Test - Management",
+    "url": "https://www.shl.com/solutions/products/product-catalog/sjt-management",
+    "description": "Evaluates judgment and decision-making skills in management scenarios.",
+    "test_type": "S",
+    "competencies": ["Decision Making", "Leadership", "Management"]
+  },
+  {
+    "name": "OPQ32 Personality Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/opq32",
+    "description": "A comprehensive personality questionnaire measuring 32 specific personality characteristics.",
+    "test_type": "P",
+    "competencies": ["Teamwork", "Resilience", "Influence"]
+  }
+]
