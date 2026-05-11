@@ -73,11 +73,3 @@ Response:
 }
 ```
 
-## Deploy to Render
-
-1. Push this repo to GitHub.
-2. Create a new Web Service on [render.com](https://render.com), connect your repo.
-3. Set `GROQ_API_KEY` in the Render environment variables dashboard.
-4. Render will auto-detect `render.yaml` and deploy.
-
-**Important:** You must commit `data/catalog.json` and `data/faiss_index.bin` to the repo (or generate them in the build step) — the API won't start without them.
