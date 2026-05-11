@@ -22,3 +22,6 @@ beautifulsoup4==4.12.3
 
 # Testing
 pytest==8.2.2
+
+# Environment management
+python-dotenv==1.0.1
